@@ -2,7 +2,7 @@
 
 # Susurros en la Oscuridad
 
-<img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/2b06b0e3-1980-4d3c-8703-0c83a7c2782f" />
+<img width=<img width="200" height="200" alt="WoD" src="https://github.com/user-attachments/assets/a5a9a930-f534-40e8-8283-6b1f68cc33d1" />
 <p></p>
 
 </div>
