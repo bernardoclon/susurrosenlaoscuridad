@@ -2,7 +2,7 @@
 
 # Susurros en la Oscuridad
 
-<img width="200" height="200" alt="WoD" src="https://github.com/user-attachments/assets/9b6a1dc3-3db4-457a-92e9-ab1b31c21522" />
+<img width="200" height="200" alt="WoD" src="https://github.com/bernardoclon/susurrosenlaoscuridad/blob/main/art/logo.png" />
 <p></p>
 
 
