@@ -85,16 +85,27 @@
       }
     },
     {
-      "name": "5-libros",
-      "label": "5. Libros",
-      "path": "packs/5-libros",
+      "name": "5-stats-y-bonus",
+      "label": "5. Estados y Bonus",
+      "path": "packs/5-stats-y-bonus",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "worldofdarkness"
+    },
+    {
+      "name": "6-libros",
+      "label": "6. Libros",
+      "path": "packs/6-libros",
       "type": "JournalEntry",
       "system": "worldofdarkness",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
-    }
+    }    
   ],
   "flags": {}
 }

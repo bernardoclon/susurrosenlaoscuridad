@@ -28,10 +28,16 @@ const compendiumThemes = [
     bannerImage: `modules/${MODULE_ID}/art/banner4.jpg`,
   },
   {
-    dataPack: `${MODULE_ID}.5-libros`,
+    dataPack: `${MODULE_ID}.5-stats-y-bonus`,
     colorText: "#ff5252",
     iconText: "fa-solid fa-user-secret",
     bannerImage: `modules/${MODULE_ID}/art/banner5.png`,
+  },
+  {
+    dataPack: `${MODULE_ID}.6-libros`,
+    colorText: "#ff5252",
+    iconText: "fa-solid fa-user-secret",
+    bannerImage: `modules/${MODULE_ID}/art/banner6.png`,
   }
 ];
 
