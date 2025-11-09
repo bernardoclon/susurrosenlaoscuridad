@@ -1,0 +1,11 @@
+2025/11/09-08:21:13.709 33b8 Recovering log #1380
+2025/11/09-08:21:13.711 33b8 Level-0 table #1382: started
+2025/11/09-08:21:13.713 33b8 Level-0 table #1382: 49336 bytes OK
+2025/11/09-08:21:13.720 33b8 Delete type=0 #1380
+2025/11/09-08:21:13.720 33b8 Delete type=3 #1379
+2025/11/09-08:35:19.730 2bbc Compacting 1@0 + 1@1 files
+2025/11/09-08:35:19.766 2bbc Generated table #1384@0: 660 keys, 878059 bytes
+2025/11/09-08:35:19.766 2bbc Compacted 1@0 + 1@1 files => 878059 bytes
+2025/11/09-08:35:19.769 2bbc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/11/09-08:35:19.769 2bbc Delete type=2 #1378
+2025/11/09-08:35:19.769 2bbc Delete type=2 #1382
