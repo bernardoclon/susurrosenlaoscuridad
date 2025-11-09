@@ -1,0 +1,111 @@
+{
+  "id": "susurros-en-la-oscuridad-20a",
+  "title": "Susurros en la Oscuridad 20A",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "worldofdarkness",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "<p>¡Sumérgete en el oscuro y fascinante universo de Mundo de Tinieblas con este paquete de compendios especialmente diseñado para Foundry VTT! Esta colección incluye todas las reglas esenciales, disciplinas, arquetipos de personajes, y trasfondos de las ediciones 20 aniversario, todo completamente en español. Optimizado para una experiencia de juego inmersiva y fluida, este paquete facilita la creación y gestión de personajes, permite acceso rápido a tablas y estadísticas, y proporciona las herramientas necesarias para que los narradores puedan dirigir sus crónicas con facilidad y detalle.</p>",
+  "authors": [
+    {
+      "name": "Don Goblin",
+      "flags": {}
+    },
+    {
+      "name": "Esdegamer",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "js/pause-customizer.js",
+    "js/module.js",
+    "js/style.js"
+  ],
+  "styles": [
+    {
+      "src": "css/pause-customizer.css"
+    },
+    {
+      "src": "css/compendium-banners.css"
+    }
+  ],
+  "packs": [
+    {
+      "name": "1-poderes",
+      "label": "1. Poderes",
+      "path": "packs/1-poderes",
+      "type": "Item",
+      "system": "worldofdarkness",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "2-meritos-defectos-y-trasfondos",
+      "label": "2. Meritos, Defectos y Trasfondos",
+      "path": "packs/2-meritos-defectos-y-trasfondos",
+      "type": "Item",
+      "system": "worldofdarkness",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "3-armas-armaduras-y-objetos",
+      "label": "3. Armas, Armaduras y Objetos",
+      "path": "packs/3-armas-armaduras-y-objetos",
+      "type": "Item",
+      "system": "worldofdarkness",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "4-antagonistas-y-bestiario",
+      "label": "4. Antagonistas y Bestiario",
+      "path": "packs/4-antagonistas-y-bestiario",
+      "type": "Actor",
+      "system": "worldofdarkness",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "5-stats-y-bonus",
+      "label": "5. Estados y Bonus",
+      "path": "packs/5-stats-y-bonus",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "worldofdarkness"
+    },
+    {
+      "name": "6-libros",
+      "label": "6. Libros",
+      "path": "packs/6-libros",
+      "type": "JournalEntry",
+      "system": "worldofdarkness",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }    
+  ],
+  "flags": {}
+}
