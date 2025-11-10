@@ -2,19 +2,20 @@
 
 # Susurros en la Oscuridad
 
-<img width="200" height="200" alt="logo" src="" />
+<img width="200" height="200" alt="logo" src="https://github.com/bernardoclon/susurrosenlaoscuridad/blob/main/art/logo.png" />
 <p></p>
 
 </div>
 
 <div align="justify">
 <p>
-🖤 ## Peligros en la Oscuridad
+  
+## 🖤 Peligros en la Oscuridad
 ¡Acceso Restringido! Esto no es una fuente oficial, sino mi archivo personal y privado, la llave maestra para navegar por las sombrías profundidades del Mundo de Tinieblas (WoD) 20º Aniversario.
 
 Este es un compendio de información de juego que he seleccionado y organizado meticulosamente, presentado en español y diseñado específicamente para la intensa experiencia narrativa de la edición 20 Aniversario. Permíteme ser claro: este material es solo mío, creado y mantenido para mi uso exclusivo como Narrador (Storyteller) y tiene prohibida su divulgación, venta o distribución pública bajo cualquier circunstancia. Es material sensible y de manejo interno.
 
-🩸 ## Sombras en la Noche
+## 🩸 Sombras en la Noche
 
 Dentro de estas páginas, he consolidado una base de datos exhaustiva y personal, la espina dorsal mecánica y conceptual que define la existencia en la oscuridad. No encontrarás módulos de aventura aquí, sino la infraestructura crítica para construir y sostener una crónica compleja para nuestro círculo íntimo.
 
